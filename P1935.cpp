@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdio>
 #include <string>
 #include <stack>
 
@@ -8,8 +7,10 @@ using namespace std;
 double value[26] = {};
 
 int main() {
+    ios::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
+    cout.precision(2);
 
     int N;
     string exp;
@@ -53,7 +54,8 @@ int main() {
         }
     }
 
-    printf("%.2lf", stack.top());
+    cout << fixed << stack.top();
 
     return 0;
 }
+
