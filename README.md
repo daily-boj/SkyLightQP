@@ -10,3 +10,4 @@
 | 2020-04-11 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [1373 2진수 8진수](https://www.acmicpc.net/problem/1373) | [P1373.cpp](./P1373.cpp) |
 | 2020-04-11 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [3213 피자](https://www.acmicpc.net/problem/3213) | [P3213.cpp](./P3213.cpp) |
 | 2020-04-11 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1068 트리](https://www.acmicpc.net/problem/1068) | [P1068.cpp](./P1068.cpp) |
+| 2020-04-12 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [9461 파도반 수열](https://www.acmicpc.net/problem/9461) | [P9461.cpp](./P9461.cpp) |
