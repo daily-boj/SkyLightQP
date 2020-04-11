@@ -8,3 +8,4 @@
 | 2020-04-10 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) | [P2422.cpp](./P2422.cpp) |
 | 2020-04-10 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [6236 용돈 관리](https://www.acmicpc.net/problem/6236) | [P6236.cpp](./P6236.cpp) |
 | 2020-04-11 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [1373 2진수 8진수](https://www.acmicpc.net/problem/1373) | [P1373.cpp](./P1373.cpp) |
+| 2020-04-11 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [3213 피자](https://www.acmicpc.net/problem/3213) | [P3213.cpp](./P3213.cpp) |
