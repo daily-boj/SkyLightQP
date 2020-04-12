@@ -12,3 +12,4 @@
 | 2020-04-11 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1068 트리](https://www.acmicpc.net/problem/1068) | [P1068.cpp](./P1068.cpp) |
 | 2020-04-12 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [3447 버그왕](https://www.acmicpc.net/problem/3447) | [P3447.cpp](./P3447.cpp) |
 | 2020-04-12 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [9461 파도반 수열](https://www.acmicpc.net/problem/9461) | [P9461.cpp](./P9461.cpp) |
+| 2020-04-12 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1149 RGB거리](https://www.acmicpc.net/problem/1149) | [P1149.cpp](./P1149.cpp) |
