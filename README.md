@@ -15,3 +15,4 @@
 | 2020-04-12 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1149 RGB거리](https://www.acmicpc.net/problem/1149) | [P1149.cpp](./P1149.cpp) |
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [2547 사탕 선생 고창영](https://www.acmicpc.net/problem/2547) | [P2547.cpp](./P2547.cpp) |
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [2508 사탕 박사 고창영](https://www.acmicpc.net/problem/2508) | [P2508.cpp](./P2508.cpp) |
+| 2020-04-13 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2435 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) | [P2435.cpp](./P2435.cpp) |
