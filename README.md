@@ -16,3 +16,6 @@
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [2547 사탕 선생 고창영](https://www.acmicpc.net/problem/2547) | [P2547.cpp](./P2547.cpp) |
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [2508 사탕 박사 고창영](https://www.acmicpc.net/problem/2508) | [P2508.cpp](./P2508.cpp) |
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2435 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) | [P2435.cpp](./P2435.cpp) |
+| 2020-04-14 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [14648 쿼리 맛보기](https://www.acmicpc.net/problem/14648) | [P14648.cpp](./P14648.cpp) |
+| 2020-04-14 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [11047 동전 0](https://www.acmicpc.net/problem/11047) | [P11047.cpp](./P11047.cpp) |
+| 2020-04-14 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [1904 01타일](https://www.acmicpc.net/problem/1904) | [P1904.cpp](./P1904.cpp) |
