@@ -19,3 +19,5 @@
 | 2020-04-14 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [14648 쿼리 맛보기](https://www.acmicpc.net/problem/14648) | [P14648.cpp](./P14648.cpp) |
 | 2020-04-14 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [11047 동전 0](https://www.acmicpc.net/problem/11047) | [P11047.cpp](./P11047.cpp) |
 | 2020-04-14 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [1904 01타일](https://www.acmicpc.net/problem/1904) | [P1904.cpp](./P1904.cpp) |
+| 2020-04-15 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [11383 뚊](https://www.acmicpc.net/problem/11383) | [P11383.cpp](./P11383.cpp) |
+| 2020-04-15 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [16510 Predictable Queue](https://www.acmicpc.net/problem/16510) | [P16510.cpp](./P16510.cpp) |
