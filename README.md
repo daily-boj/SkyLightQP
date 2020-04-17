@@ -25,3 +25,4 @@
 | 2020-04-16 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [17363 우유가 넘어지면?](https://www.acmicpc.net/problem/17363) | [P17363.cpp](./P17363.cpp) |
 | 2020-04-16 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> Silver IV | [9693 시파르](https://www.acmicpc.net/problem/9693) | [P9693.cpp](./P9693.cpp) |
 | 2020-04-16 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [18429 근손실](https://www.acmicpc.net/problem/18429) | [P18429.cpp](./P18429.cpp) |
+| 2020-04-17 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875) | [P2875.cpp](./P2875.cpp) |
