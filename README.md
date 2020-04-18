@@ -28,3 +28,4 @@
 | 2020-04-17 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875) | [P2875.cpp](./P2875.cpp) |
 | 2020-04-18 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [9933 민균이의 비밀번호](https://www.acmicpc.net/problem/9933) | [P9933.cpp](./P9933.cpp) |
 | 2020-04-18 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [15500 이상한 하노이 탑](https://www.acmicpc.net/problem/15500) | [P15500.cpp](./P15500.cpp) | 메모리 초과 |
+| 2020-04-19 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [9625 BABBA](https://www.acmicpc.net/problem/9625) | [P9625.cpp](./P9625.cpp) |
