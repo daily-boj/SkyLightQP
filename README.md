@@ -34,3 +34,5 @@
 | 2020-04-20 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [4378 트ㅏㅊ;](https://www.acmicpc.net/problem/4378) | [P4378.cpp](./P4378.cpp) |
 | 2020-04-20 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [P11725.cpp](./P11725.cpp) |
 | 2020-04-20 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2644 촌수계산](https://www.acmicpc.net/problem/2644) | [P2644.cpp](./P2644.cpp) |
+| 2020-04-21 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [15721 번데기](https://www.acmicpc.net/problem/15721) | [P15721.cpp](./15721.cpp) |
+| 2020-04-21 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [5639 이진 검색 트리](https://www.acmicpc.net/problem/5639) | [P5639.cpp](./P5639.cpp) |
