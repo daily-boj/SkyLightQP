@@ -39,3 +39,6 @@
 | 2020-04-22 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [13301 타일 장식물](https://www.acmicpc.net/problem/13301) | [P13301.cpp](./P13301.cpp) |
 | 2020-04-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [2579 계단 오르기](https://www.acmicpc.net/problem/2579) | [P2579.cpp](./P2579.cpp) |
 | 2020-04-22 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2491 수열](https://www.acmicpc.net/problem/2491) | [P2491.cpp](./P2491.cpp) |
+| 2020-04-23 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [17247 택시 거리](https://www.acmicpc.net/problem/17247) | [P17247.cpp](./P17247.cpp) |
+| 2020-04-23 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [1654 랜선 자르기](https://www.acmicpc.net/problem/1654) | [P1654.cpp](./P1654.cpp) |
+| 2020-04-23 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [P11053.cpp](./P11053.cpp) |
