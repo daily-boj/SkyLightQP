@@ -42,6 +42,9 @@
 | 2020-04-23 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [17247 택시 거리](https://www.acmicpc.net/problem/17247) | [P17247.cpp](./P17247.cpp) |
 | 2020-04-23 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [1654 랜선 자르기](https://www.acmicpc.net/problem/1654) | [P1654.cpp](./P1654.cpp) |
 | 2020-04-23 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [P11053.cpp](./P11053.cpp) |
-| 2020-04-24 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1357 뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | [P1357.cpp](./P1357.cpp) 
-| 2020-04-24 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://www.acmicpc.net/problem/14715) | [P14715.cpp](./P14715.cpp) 
-| 2020-04-24 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790) | [P1790.cpp](./P1790.cpp) 
+| 2020-04-24 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1357 뒤집힌 덧셈](https://www.acmicpc.net/problem/1357) | [P1357.cpp](./P1357.cpp) |
+| 2020-04-24 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [14715 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://www.acmicpc.net/problem/14715) | [P14715.cpp](./P14715.cpp) |
+| 2020-04-24 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790) | [P1790.cpp](./P1790.cpp) |
+| 2020-04-25 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [11285 초성 중성 종성 2](https://www.acmicpc.net/problem/11285) | [P11285.kt](./P11285.kt) | 런타임 에러 |
+| 2020-04-25 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [18187 평면 분할](https://www.acmicpc.net/problem/18187) | [P18187.cpp](./P18187.cpp) |
+| 2020-04-25 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1992 쿼드트리](https://www.acmicpc.net/problem/1992) | [P1992.cpp](./P1992.cpp) |
