@@ -48,3 +48,6 @@
 | 2020-04-25 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [11285 초성 중성 종성 2](https://www.acmicpc.net/problem/11285) | [P11285.kt](./P11285.kt) | 런타임 에러 |
 | 2020-04-25 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [18187 평면 분할](https://www.acmicpc.net/problem/18187) | [P18187.cpp](./P18187.cpp) |
 | 2020-04-25 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1992 쿼드트리](https://www.acmicpc.net/problem/1992) | [P1992.cpp](./P1992.cpp) |
+| 2020-04-27 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [10610 30](https://www.acmicpc.net/problem/10610) | [P10610.cpp](./P10610.cpp) |
+| 2020-04-27 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2504 괄호의 값](https://www.acmicpc.net/problem/2504) | [P1992.cpp](./P2504.cpp) |
+| 2020-04-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [4531 Verdis Quo](https://www.acmicpc.net/problem/4531) | [P4531.cpp](./P4531.cpp) |
