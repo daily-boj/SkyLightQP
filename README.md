@@ -53,4 +53,4 @@
 | 2020-04-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [4531 Verdis Quo](https://www.acmicpc.net/problem/4531) | [P4531.cpp](./P4531.cpp) |
 | 2020-04-28 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [4732 조옮김](https://www.acmicpc.net/problem/4732) | [P4732.cpp](./P4732.cpp) |
 | 2020-04-28 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [10799 쇠막대기](https://www.acmicpc.net/problem/10799) | [P10799.cpp](./P10799.cpp) |
-| 2020-04-28 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2757 엑셀](https://www.acmicpc.net/problem/2757) | [P2757.cpp](./P2757.cpp) |
+| 2020-04-28 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2757 엑셀](https://www.acmicpc.net/problem/2757) | [P2757.kt](./P2757.kt) |
