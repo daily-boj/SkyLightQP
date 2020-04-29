@@ -55,3 +55,5 @@
 | 2020-04-28 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [10799 쇠막대기](https://www.acmicpc.net/problem/10799) | [P10799.cpp](./P10799.cpp) |
 | 2020-04-28 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2757 엑셀](https://www.acmicpc.net/problem/2757) | [P2757.kt](./P2757.kt) |
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2896 무알콜 칵테일](https://www.acmicpc.net/problem/2896) | [P2896.cpp](./P2896.cpp) |
+| 2020-04-29 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [5430 AC](https://www.acmicpc.net/problem/5430) | [P5430.kt](./P5430.kt) | 시간 초과 |
+| 2020-04-29 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [14585 사수빈탕](https://www.acmicpc.net/problem/14585) | [P14585.cpp](./P14585.cpp) | 틀렸습니다 |
