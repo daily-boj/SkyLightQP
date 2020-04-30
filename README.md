@@ -15,7 +15,7 @@
 | 2020-04-12 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1149 RGB거리](https://www.acmicpc.net/problem/1149) | [P1149.cpp](./P1149.cpp) |
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [2547 사탕 선생 고창영](https://www.acmicpc.net/problem/2547) | [P2547.cpp](./P2547.cpp) |
 | 2020-04-13 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [2508 사탕 박사 고창영](https://www.acmicpc.net/problem/2508) | [P2508.cpp](./P2508.cpp) |
-| 2020-04-13 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2435 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) | [P2435.cpp](./P2435.cpp) |
+| 2020-04-13 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [2435 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435) | [P2435.cpp](./P2435.cpp) |
 | 2020-04-14 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [14648 쿼리 맛보기](https://www.acmicpc.net/problem/14648) | [P14648.cpp](./P14648.cpp) |
 | 2020-04-14 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [11047 동전 0](https://www.acmicpc.net/problem/11047) | [P11047.cpp](./P11047.cpp) |
 | 2020-04-14 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [1904 01타일](https://www.acmicpc.net/problem/1904) | [P1904.cpp](./P1904.cpp) |
@@ -53,7 +53,10 @@
 | 2020-04-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [4531 Verdis Quo](https://www.acmicpc.net/problem/4531) | [P4531.cpp](./P4531.cpp) |
 | 2020-04-28 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [4732 조옮김](https://www.acmicpc.net/problem/4732) | [P4732.cpp](./P4732.cpp) |
 | 2020-04-28 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [10799 쇠막대기](https://www.acmicpc.net/problem/10799) | [P10799.cpp](./P10799.cpp) |
-| 2020-04-28 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2757 엑셀](https://www.acmicpc.net/problem/2757) | [P2757.kt](./P2757.kt) |
+| 2020-04-28 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [2757 엑셀](https://www.acmicpc.net/problem/2757) | [P2757.kt](./P2757.kt) |
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2896 무알콜 칵테일](https://www.acmicpc.net/problem/2896) | [P2896.cpp](./P2896.cpp) |
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [5430 AC](https://www.acmicpc.net/problem/5430) | [P5430.kt](./P5430.kt) | 시간 초과 |
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [14585 사수빈탕](https://www.acmicpc.net/problem/14585) | [P14585.cpp](./P14585.cpp) | 틀렸습니다 |
+| 2020-04-30 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/14585) | [P10988.cpp](./P10988.cpp) |
+| 2020-04-30 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | [P15649.cpp](./P15649.cpp) |
+| 2020-04-30 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Gold V | [3709 레이저빔은 어디로](https://www.acmicpc.net/problem/3709) | [P3709.cpp](./P3709.cpp) |
