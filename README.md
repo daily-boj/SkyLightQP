@@ -59,4 +59,4 @@
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [14585 사수빈탕](https://www.acmicpc.net/problem/14585) | [P14585.cpp](./P14585.cpp) | 틀렸습니다 |
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/14585) | [P10988.cpp](./P10988.cpp) |
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | [P15649.cpp](./P15649.cpp) |
-| 2020-04-30 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Gold V | [3709 레이저빔은 어디로](https://www.acmicpc.net/problem/3709) | [P3709.cpp](./P3709.cpp) |
+| 2020-04-30 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [3709 레이저빔은 어디로](https://www.acmicpc.net/problem/3709) | [P3709.cpp](./P3709.cpp) |
