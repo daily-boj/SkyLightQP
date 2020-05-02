@@ -60,3 +60,5 @@
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/14585) | [P10988.cpp](./P10988.cpp) |
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | [P15649.cpp](./P15649.cpp) |
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [3709 레이저빔은 어디로](https://www.acmicpc.net/problem/3709) | [P3709.cpp](./P3709.cpp) |
+| 2020-05-01 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [1276 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/1276) | [P1276.cpp](./P1276.cpp) |
+| 2020-05-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2869 교각 놓기](https://www.acmicpc.net/problem/2869) | [P2869.cpp](./P2869.cpp) | 틀렸습니다 |
