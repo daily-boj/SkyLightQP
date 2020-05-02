@@ -62,3 +62,5 @@
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [3709 레이저빔은 어디로](https://www.acmicpc.net/problem/3709) | [P3709.cpp](./P3709.cpp) |
 | 2020-05-01 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [1276 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/1276) | [P1276.cpp](./P1276.cpp) |
 | 2020-05-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2869 교각 놓기](https://www.acmicpc.net/problem/2869) | [P2869.cpp](./P2869.cpp) | 틀렸습니다 |
+| 2020-05-02 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [17245 서버실](https://www.acmicpc.net/problem/2869) | [P17245.cpp](./P17245.cpp) |
+| 2020-05-02 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [16456 하와와 대학생쨩 하와이로 가는 거시와요~](https://www.acmicpc.net/problem/16456) | [P16456.cpp](./P16456.cpp) |
