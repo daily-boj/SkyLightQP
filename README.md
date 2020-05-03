@@ -64,3 +64,4 @@
 | 2020-05-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2869 교각 놓기](https://www.acmicpc.net/problem/2869) | [P2869.cpp](./P2869.cpp) | 틀렸습니다 |
 | 2020-05-02 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [17245 서버실](https://www.acmicpc.net/problem/2869) | [P17245.cpp](./P17245.cpp) |
 | 2020-05-02 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [16456 하와와 대학생쨩 하와이로 가는 거시와요~](https://www.acmicpc.net/problem/16456) | [P16456.cpp](./P16456.cpp) |
+| 2020-05-03 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2812 크게 만들기](https://www.acmicpc.net/problem/2812) | [P2812.cpp](./P2812.cpp) | 5월 2일 문제 |
