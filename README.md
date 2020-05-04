@@ -65,3 +65,6 @@
 | 2020-05-02 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [17245 서버실](https://www.acmicpc.net/problem/2869) | [P17245.cpp](./P17245.cpp) |
 | 2020-05-02 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [16456 하와와 대학생쨩 하와이로 가는 거시와요~](https://www.acmicpc.net/problem/16456) | [P16456.cpp](./P16456.cpp) |
 | 2020-05-03 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2812 크게 만들기](https://www.acmicpc.net/problem/2812) | [P2812.cpp](./P2812.cpp) | 5월 2일 문제 |
+| 2020-05-04 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [16433 주디와 당근농장](https://www.acmicpc.net/problem/16433) | [P16433.cpp](./P16433.cpp) |
+| 2020-05-04 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [1564 팩토리얼5](https://www.acmicpc.net/problem/1564) | [P1564.cpp](./P1564.cpp) |
+| 2020-05-04 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다](https://www.acmicpc.net/problem/6568) | [P6568.cpp](./P6568.cpp) |
