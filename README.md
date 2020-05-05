@@ -68,3 +68,4 @@
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [16433 주디와 당근농장](https://www.acmicpc.net/problem/16433) | [P16433.cpp](./P16433.cpp) |
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [1564 팩토리얼5](https://www.acmicpc.net/problem/1564) | [P1564.cpp](./P1564.cpp) |
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다](https://www.acmicpc.net/problem/6568) | [P6568.cpp](./P6568.cpp) |
+| 2020-05-05 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [18512 점프 점프](https://www.acmicpc.net/problem/18512) | [P18512.cpp](./P18512.cpp) |
