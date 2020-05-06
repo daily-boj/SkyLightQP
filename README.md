@@ -69,3 +69,6 @@
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [1564 팩토리얼5](https://www.acmicpc.net/problem/1564) | [P1564.cpp](./P1564.cpp) |
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다](https://www.acmicpc.net/problem/6568) | [P6568.cpp](./P6568.cpp) |
 | 2020-05-05 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [18512 점프 점프](https://www.acmicpc.net/problem/18512) | [P18512.cpp](./P18512.cpp) |
+| 2020-05-06 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17946 피자는 나눌 수록 커지잖아요](https://www.acmicpc.net/problem/17946) | [P17946.cpp](./P17946.cpp) |
+| 2020-05-06 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [13414 수강 신청](https://www.acmicpc.net/problem/6568) | [P13414.kt](./P13414.kt) |
+| 2020-05-06 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13023 ABCDE](https://www.acmicpc.net/problem/13023) | [P13023.cpp](./P13023.cpp) |
