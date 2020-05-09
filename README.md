@@ -74,4 +74,5 @@
 | 2020-05-06 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13023 ABCDE](https://www.acmicpc.net/problem/13023) | [P13023.cpp](./P13023.cpp) |
 | 2020-05-07 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [P17478.cpp](./P17478.cpp) |
 | 2020-05-07 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [11441 합 구하기](https://www.acmicpc.net/problem/11441) | [P11441.cpp](./P11441.cpp) |
-| 2020-05-08 | <img src="https://static.solved.ac/tier_small/66.svg" height="14px"/> Silver V | [11723 집합](https://www.acmicpc.net/problem/11723) | [P11723.cpp](./P11723.cpp) |
+| 2020-05-08 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [11723 집합](https://www.acmicpc.net/problem/11723) | [P11723.cpp](./P11723.cpp) |
+| 2020-05-09 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Silver II | [2622 삼각형만들기](https://www.acmicpc.net/problem/2622) | [P2622.cpp](./P2622.cpp) |
