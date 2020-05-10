@@ -58,7 +58,7 @@
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [5430 AC](https://www.acmicpc.net/problem/5430) | [P5430.kt](./P5430.kt) | 시간 초과 |
 | 2020-04-29 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [14585 사수빈탕](https://www.acmicpc.net/problem/14585) | [P14585.cpp](./P14585.cpp) | 틀렸습니다 |
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/14585) | [P10988.cpp](./P10988.cpp) |
-| 2020-04-30 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | [P15649.cpp](./P15649.cpp) |
+| 2020-04-30 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649) | [P15649.cpp](./P15649.cpp) |
 | 2020-04-30 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [3709 레이저빔은 어디로](https://www.acmicpc.net/problem/3709) | [P3709.cpp](./P3709.cpp) |
 | 2020-05-01 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [1276 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/1276) | [P1276.cpp](./P1276.cpp) |
 | 2020-05-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2869 교각 놓기](https://www.acmicpc.net/problem/2869) | [P2869.cpp](./P2869.cpp) | 틀렸습니다 |
@@ -70,11 +70,11 @@
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다](https://www.acmicpc.net/problem/6568) | [P6568.cpp](./P6568.cpp) |
 | 2020-05-05 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [18512 점프 점프](https://www.acmicpc.net/problem/18512) | [P18512.cpp](./P18512.cpp) |
 | 2020-05-06 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17946 피자는 나눌 수록 커지잖아요](https://www.acmicpc.net/problem/17946) | [P17946.cpp](./P17946.cpp) |
-| 2020-05-06 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [13414 수강 신청](https://www.acmicpc.net/problem/6568) | [P13414.kt](./P13414.kt) |
+| 2020-05-06 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [13414 수강 신청](https://www.acmicpc.net/problem/6568) | [P13414.kt](./P13414.kt) |
 | 2020-05-06 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13023 ABCDE](https://www.acmicpc.net/problem/13023) | [P13023.cpp](./P13023.cpp) |
 | 2020-05-07 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [P17478.cpp](./P17478.cpp) |
-| 2020-05-07 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver III | [11441 합 구하기](https://www.acmicpc.net/problem/11441) | [P11441.cpp](./P11441.cpp) |
+| 2020-05-07 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11441 합 구하기](https://www.acmicpc.net/problem/11441) | [P11441.cpp](./P11441.cpp) |
 | 2020-05-08 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [11723 집합](https://www.acmicpc.net/problem/11723) | [P11723.cpp](./P11723.cpp) |
-| 2020-05-09 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Silver II | [2622 삼각형만들기](https://www.acmicpc.net/problem/2622) | [P2622.cpp](./P2622.cpp) |
-| 2020-05-10 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Silver II | [11060 점프 점프](https://www.acmicpc.net/problem/11060) | [P11060.cpp](./P11060.cpp) | 5월 5일 문제 |
+| 2020-05-09 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2622 삼각형만들기](https://www.acmicpc.net/problem/2622) | [P2622.cpp](./P2622.cpp) |
+| 2020-05-10 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11060 점프 점프](https://www.acmicpc.net/problem/11060) | [P11060.cpp](./P11060.cpp) | 5월 5일 문제 |
 | 2020-05-10 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13398 연속합 2](https://www.acmicpc.net/problem/13398) | [P13398.cpp](./P13398.cpp) | 5월 5일 문제 |
