@@ -78,3 +78,6 @@
 | 2020-05-09 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2622 삼각형만들기](https://www.acmicpc.net/problem/2622) | [P2622.cpp](./P2622.cpp) |
 | 2020-05-10 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11060 점프 점프](https://www.acmicpc.net/problem/11060) | [P11060.cpp](./P11060.cpp) | 5월 5일 문제 |
 | 2020-05-10 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13398 연속합 2](https://www.acmicpc.net/problem/13398) | [P13398.cpp](./P13398.cpp) | 5월 5일 문제 |
+| 2020-05-11 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [14405 피카츄](https://www.acmicpc.net/problem/14405) | [P14405.cpp](./P14405.cpp) |
+| 2020-05-11 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [P18870.cpp](./P18870.cpp) |
+| 2020-05-11 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9251 LCS](https://www.acmicpc.net/problem/9251) | [P9251.cpp](./P9251.cpp) |
