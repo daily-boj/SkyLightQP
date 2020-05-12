@@ -81,3 +81,5 @@
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [14405 피카츄](https://www.acmicpc.net/problem/14405) | [P14405.cpp](./P14405.cpp) |
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [P18870.cpp](./P18870.cpp) |
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9251 LCS](https://www.acmicpc.net/problem/9251) | [P9251.cpp](./P9251.cpp) |
+| 2020-05-12 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [1331 나이트 투어](https://www.acmicpc.net/problem/1331) | [P1331.cpp](./P1331.cpp) |
+| 2020-05-12 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [16439 치킨치킨치킨](https://www.acmicpc.net/problem/16439) | [P16439.cpp](./P16439.cpp) |
