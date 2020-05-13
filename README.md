@@ -83,3 +83,6 @@
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9251 LCS](https://www.acmicpc.net/problem/9251) | [P9251.cpp](./P9251.cpp) |
 | 2020-05-12 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [1331 나이트 투어](https://www.acmicpc.net/problem/1331) | [P1331.cpp](./P1331.cpp) |
 | 2020-05-12 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [16439 치킨치킨치킨](https://www.acmicpc.net/problem/16439) | [P16439.cpp](./P16439.cpp) |
+| 2020-05-13 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [1964 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [P1964.cpp](./P1964.cpp) |
+| 2020-05-13 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2133 타일 채우기](https://www.acmicpc.net/problem/2133) | [P2133.cpp](./P2133.cpp) |
+| 2020-05-13 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2493 탑](https://www.acmicpc.net/problem/2493) | [P2493.cpp](./P2493.cpp) |
