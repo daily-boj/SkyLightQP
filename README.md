@@ -87,3 +87,5 @@
 | 2020-05-13 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2133 타일 채우기](https://www.acmicpc.net/problem/2133) | [P2133.cpp](./P2133.cpp) |
 | 2020-05-13 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2493 탑](https://www.acmicpc.net/problem/2493) | [P2493.cpp](./P2493.cpp) |
 | 2020-05-14 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [18221 교수님 저는 취업할래요](https://www.acmicpc.net/problem/18221) | [P18221.cpp](./P18221.cpp) |
+| 2020-05-15 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [9996 한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [P9996.cpp](./P9996.cpp) |
+| 2020-05-15 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9663 N-Queen](https://www.acmicpc.net/problem/9663) | [P9663.cpp](./P9663.cpp) |
