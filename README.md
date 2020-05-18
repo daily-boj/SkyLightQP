@@ -93,3 +93,4 @@
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1834 나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834) | [P1834.cpp](./P1834.cpp) |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2529 부등호](https://www.acmicpc.net/problem/2529) | [P2529.cpp](./P2529.cpp) |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [P1916.cpp](./P1916.cpp) |
+| 2020-05-19 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17249 태보태보 총난타](https://www.acmicpc.net/problem/17249) | [P17249.cpp](./P17249.cpp) |
