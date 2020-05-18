@@ -91,4 +91,5 @@
 | 2020-05-15 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9663 N-Queen](https://www.acmicpc.net/problem/9663) | [P9663.cpp](./P9663.cpp) |
 | 2020-05-16 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2011 암호코드](https://www.acmicpc.net/problem/2011) | [P2011.cpp](./P2011.cpp) | 5월 15일 문제 |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1834 나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834) | [P1834.cpp](./P1834.cpp) |
+| 2020-05-18 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2529 부등호](https://www.acmicpc.net/problem/2529) | [P2529.cpp](./P2529.cpp) |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [P1916.cpp](./P1916.cpp) |
