@@ -94,3 +94,5 @@
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2529 부등호](https://www.acmicpc.net/problem/2529) | [P2529.cpp](./P2529.cpp) |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [P1916.cpp](./P1916.cpp) |
 | 2020-05-19 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17249 태보태보 총난타](https://www.acmicpc.net/problem/17249) | [P17249.cpp](./P17249.cpp) |
+| 2020-05-20 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14659 한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659) | [P14659.cpp](./P14659.cpp) |
+| 2020-05-20 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [15724 주지수](https://www.acmicpc.net/problem/15724) | [P15724.cpp](./P15724.cpp) |
