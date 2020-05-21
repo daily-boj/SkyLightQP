@@ -96,3 +96,4 @@
 | 2020-05-19 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17249 태보태보 총난타](https://www.acmicpc.net/problem/17249) | [P17249.cpp](./P17249.cpp) |
 | 2020-05-20 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14659 한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659) | [P14659.cpp](./P14659.cpp) |
 | 2020-05-20 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [15724 주지수](https://www.acmicpc.net/problem/15724) | [P15724.cpp](./P15724.cpp) |
+| 2020-05-21 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [14563 완전수](https://www.acmicpc.net/problem/14563) | [P14563.cpp](./P14563.cpp) |
