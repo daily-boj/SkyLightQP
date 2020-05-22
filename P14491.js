@@ -1,0 +1,1 @@
+require('readline').createInterface(process.stdin).on('line', line => console.log(parseInt(line, 10).toString(9)));

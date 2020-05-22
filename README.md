@@ -98,3 +98,6 @@
 | 2020-05-20 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [15724 주지수](https://www.acmicpc.net/problem/15724) | [P15724.cpp](./P15724.cpp) |
 | 2020-05-21 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [14563 완전수](https://www.acmicpc.net/problem/14563) | [P14563.cpp](./P14563.cpp) |
 | 2020-05-21 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [5875 오타](https://www.acmicpc.net/problem/5875) | [P5875.cpp](./P5875.cpp) |
+| 2020-05-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [14491 9진수](https://www.acmicpc.net/problem/14491) | [P14491.js](./P14491.js) |
+| 2020-05-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [4375 1](https://www.acmicpc.net/problem/4375) | [P4375.cpp](./P4375.cpp) |
+| 2020-05-22 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9658 돌 게임 4](https://www.acmicpc.net/problem/9658) | [P9658.cpp](./P9658.cpp) |
