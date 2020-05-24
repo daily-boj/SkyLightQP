@@ -101,3 +101,4 @@
 | 2020-05-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [14491 9진수](https://www.acmicpc.net/problem/14491) | [P14491.js](./P14491.js) |
 | 2020-05-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [4375 1](https://www.acmicpc.net/problem/4375) | [P4375.cpp](./P4375.cpp) |
 | 2020-05-22 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9658 돌 게임 4](https://www.acmicpc.net/problem/9658) | [P9658.cpp](./P9658.cpp) |
+| 2020-05-24 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2228 구간 나누기](https://www.acmicpc.net/problem/2228) | [P2228.cpp](./P2228.cpp) | 5월 20일 문제 |
