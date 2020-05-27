@@ -105,3 +105,4 @@
 | 2020-05-25 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17950 스노우볼](https://www.acmicpc.net/problem/17950) | [P17950.cpp](./P17950.cpp) |
 | 2020-05-25 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [17615 볼 모으기](https://www.acmicpc.net/problem/17615) | [P17615.cpp](./P17615.cpp) |줄임말 만들기
 | 2020-05-26 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [3181 줄임말 만들기](https://www.acmicpc.net/problem/3181) | [P3181.kt](./P3181.kt) |
+| 2020-05-27 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [16478 원의 분할](https://www.acmicpc.net/problem/16478) | [P16478.cpp](./P16478.cpp) |
