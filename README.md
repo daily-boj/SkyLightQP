@@ -107,3 +107,4 @@
 | 2020-05-26 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [3181 줄임말 만들기](https://www.acmicpc.net/problem/3181) | [P3181.kt](./P3181.kt) |
 | 2020-05-27 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [16478 원의 분할](https://www.acmicpc.net/problem/16478) | [P16478.cpp](./P16478.cpp) |
 | 2020-05-28 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [16497 대출 요청](https://www.acmicpc.net/problem/16497) | [P16497.cpp](./P16497.cpp) | 틀렸습니다 |
+| 2020-05-29 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14929 귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) | [P14929.cpp](./P14929.cpp) |
