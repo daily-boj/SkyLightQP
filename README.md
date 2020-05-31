@@ -109,3 +109,4 @@
 | 2020-05-28 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [16497 대출 요청](https://www.acmicpc.net/problem/16497) | [P16497.cpp](./P16497.cpp) | 틀렸습니다 |
 | 2020-05-29 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14929 귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) | [P14929.cpp](./P14929.cpp) |
 | 2020-05-30 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11508 2+1 세일](https://www.acmicpc.net/problem/11508) | [P11508.cpp](./P11508.cpp) | 5월 26일 문제 |
+| 2020-05-31 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9084 동전](https://www.acmicpc.net/problem/9084) | [P9084.cpp](./P9084.cpp) | 5월 26일 문제 |
