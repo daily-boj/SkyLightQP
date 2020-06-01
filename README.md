@@ -110,3 +110,5 @@
 | 2020-05-30 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11508 2+1 세일](https://www.acmicpc.net/problem/11508) | [P11508.cpp](./P11508.cpp) | 5월 26일 문제 |
 | 2020-05-31 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9084 동전](https://www.acmicpc.net/problem/9084) | [P9084.cpp](./P9084.cpp) | 5월 26일 문제 |
 | 2020-06-01 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [11719 그대로 출력하기 2](https://www.acmicpc.net/problem/11719) | [P11719.cpp](./P11719.cpp) |
+| 2020-06-01 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11663 선분 위의 점](https://www.acmicpc.net/problem/11663) | [P11663.cpp](./P11663.cpp) |
+| 2020-06-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [11000 강의실 배정](https://www.acmicpc.net/problem/11000) | [P11000.cpp](./P11000.cpp) |
