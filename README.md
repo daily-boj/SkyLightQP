@@ -115,3 +115,4 @@
 | 2020-06-02 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [6246 풍선 놀이](https://www.acmicpc.net/problem/6246) | [P6246.cpp](./P6246.cpp) |
 | 2020-06-02 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2240 자두나무](https://www.acmicpc.net/problem/2240) | [P2240.cpp](./P2240.cpp) |
 | 2020-06-03 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [15720 카우버거](https://www.acmicpc.net/problem/15720) | [P15720.cpp](./P15720.cpp) |
+| 2020-06-03 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> Silver IV | [14246 K보다 큰 구간](https://www.acmicpc.net/problem/14246) | [P14246.cpp](./P14246.cpp) |
