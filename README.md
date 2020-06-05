@@ -117,3 +117,6 @@
 | 2020-06-03 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [15720 카우버거](https://www.acmicpc.net/problem/15720) | [P15720.cpp](./P15720.cpp) |
 | 2020-06-03 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> Silver IV | [14246 K보다 큰 구간](https://www.acmicpc.net/problem/14246) | [P14246.cpp](./P14246.cpp) |
 | 2020-06-04 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [12779 상품 is 뭔들](https://www.acmicpc.net/problem/12779) | [P12779.cpp](./P12779.cpp) |
+| 2020-06-05 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [P11650.cpp](./P11650.cpp) |
+| 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [11403 경로 찾기](https://www.acmicpc.net/problem/11403) | [P11403.cpp](./P11403.cpp) |
+| 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1629 곱셈](https://www.acmicpc.net/problem/1629) | [P1629.cpp](./P12779.cpp) |
