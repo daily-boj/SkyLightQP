@@ -120,3 +120,5 @@
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [P11650.cpp](./P11650.cpp) |
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [11403 경로 찾기](https://www.acmicpc.net/problem/11403) | [P11403.cpp](./P11403.cpp) |
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1629 곱셈](https://www.acmicpc.net/problem/1629) | [P1629.cpp](./P12779.cpp) |
+| 2020-06-07 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [8911 거북이](https://www.acmicpc.net/problem/8911) | [P8911.cpp](./P8911.cpp) | 6월 4일 문제 |
+| 2020-06-07 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [15501 부당한 퍼즐](https://www.acmicpc.net/problem/15501) | [P15501.cpp](./P15501.cpp) | 6월 2일 문제 |
