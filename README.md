@@ -122,3 +122,5 @@
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1629 곱셈](https://www.acmicpc.net/problem/1629) | [P1629.cpp](./P12779.cpp) |
 | 2020-06-07 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [8911 거북이](https://www.acmicpc.net/problem/8911) | [P8911.cpp](./P8911.cpp) | 6월 4일 문제 |
 | 2020-06-07 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [15501 부당한 퍼즐](https://www.acmicpc.net/problem/15501) | [P15501.cpp](./P15501.cpp) | 6월 2일 문제 |
+| 2020-06-08 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [2028 자기복제수](https://www.acmicpc.net/problem/2028) | [P2028.cpp](./P2028.cpp) |
+| 2020-06-08 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [5397 키로거](https://www.acmicpc.net/problem/5397) | [P5397.cpp](./P5397.cpp) |
