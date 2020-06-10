@@ -125,3 +125,4 @@
 | 2020-06-08 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [2028 자기복제수](https://www.acmicpc.net/problem/2028) | [P2028.cpp](./P2028.cpp) |
 | 2020-06-08 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [5397 키로거](https://www.acmicpc.net/problem/5397) | [P5397.cpp](./P5397.cpp) |
 | 2020-06-09 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2684 동전 게임](https://www.acmicpc.net/problem/2684) | [P2684.cpp](./P2684.cpp) |
+| 2020-06-10 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14581 팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581) | [P14581.cpp](./P14581.cpp) |
