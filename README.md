@@ -127,3 +127,4 @@
 | 2020-06-09 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2684 동전 게임](https://www.acmicpc.net/problem/2684) | [P2684.cpp](./P2684.cpp) |
 | 2020-06-10 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14581 팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581) | [P14581.py](./P14581.py) |
 | 2020-06-11 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [3062 수 뒤집기](https://www.acmicpc.net/problem/3062) | [P3062.py](./P3062.py) |
+| 2020-06-12 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1236 성 지키기](https://www.acmicpc.net/problem/1236) | [P1236.cpp](./P1236.cpp) |
