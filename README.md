@@ -128,3 +128,4 @@
 | 2020-06-10 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14581 팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581) | [P14581.py](./P14581.py) |
 | 2020-06-11 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [3062 수 뒤집기](https://www.acmicpc.net/problem/3062) | [P3062.py](./P3062.py) |
 | 2020-06-12 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1236 성 지키기](https://www.acmicpc.net/problem/1236) | [P1236.cpp](./P1236.cpp) |
+| 2020-06-14 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [P1504.cpp](./P1504.cpp) | 6월 8일 문제 |
