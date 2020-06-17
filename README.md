@@ -129,3 +129,4 @@
 | 2020-06-11 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [3062 수 뒤집기](https://www.acmicpc.net/problem/3062) | [P3062.py](./P3062.py) |
 | 2020-06-12 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1236 성 지키기](https://www.acmicpc.net/problem/1236) | [P1236.cpp](./P1236.cpp) |
 | 2020-06-14 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [P1504.cpp](./P1504.cpp) | 6월 8일 문제 |
+| 2020-06-17 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [16205 변수명](https://www.acmicpc.net/problem/16205) | [P16205.py](./P16205.py) |
