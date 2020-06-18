@@ -131,3 +131,4 @@
 | 2020-06-14 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [P1504.cpp](./P1504.cpp) | 6월 8일 문제 |
 | 2020-06-17 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [16205 변수명](https://www.acmicpc.net/problem/16205) | [P16205.py](./P16205.py) |
 | 2020-06-17 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2410 2의 멱수의 합](https://www.acmicpc.net/problem/2410) | [P2410.cpp](./P2410.cpp) |
+| 2020-06-18 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [5597 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [P5597.py](./P5597.py) |
