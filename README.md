@@ -137,3 +137,4 @@
 | 2020-06-21 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [16112 5차 전직](https://www.acmicpc.net/problem/16112) | [P16112.cpp](./P16112.cpp) |
 | 2020-06-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [4101 크냐?](https://www.acmicpc.net/problem/4101) | [P4101.py](./P4101.py) |
 | 2020-06-22 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [9184 신나는 함수 실행](https://www.acmicpc.net/problem/9184) | [P9184.cpp](./P9184.cpp) |
+| 2020-06-23 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [13163 닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163) | [P13163.py](./P13163.py) |
