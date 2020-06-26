@@ -140,3 +140,4 @@
 | 2020-06-23 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [13163 닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163) | [P13163.py](./P13163.py) |
 | 2020-06-24 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [9946 단어 퍼즐](https://www.acmicpc.net/problem/9946) | [P9946.py](./P9946.py) |
 | 2020-06-25 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [2386 도비의 영어 공부](https://www.acmicpc.net/problem/2386) | [P2386.py](./P2386.py) |
+| 2020-06-26 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [15710 xor 게임](https://www.acmicpc.net/problem/15710) | [P15710.py](./P15710.py) |
