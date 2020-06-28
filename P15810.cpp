@@ -20,11 +20,11 @@ int main() {
     }
 
     ll low = 1;
-    ll high = 1000000;
+    ll high = 1000000000000;
 
     while (low < high) {
         ll mid = (low + high) / 2;
-        ll sum = accumulate(balloon, balloon + N, 0, [&](ll a, ll b) {
+        ll sum = accumulate(balloon, balloon + N, 0LL, [=](ll a, ll b) {
             return a + (mid / b);
         });
 
