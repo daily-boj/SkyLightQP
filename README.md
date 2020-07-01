@@ -142,3 +142,5 @@
 | 2020-06-25 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [2386 도비의 영어 공부](https://www.acmicpc.net/problem/2386) | [P2386.py](./P2386.py) |
 | 2020-06-26 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [15710 xor 게임](https://www.acmicpc.net/problem/15710) | [P15710.py](./P15710.py) |
 | 2020-06-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [15810 풍선 공장](https://www.acmicpc.net/problem/15810) | [P15810.cpp](./P15810.cpp) | 6월 24일 문제 |
+| 2020-07-01 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740) | [P2740.cpp](./P2740.cpp) |
+| 2020-07-01 | <img src="https://static.solved.ac/tier_small/14.svg" height="14px"/> Gold II | [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749) | [P2749.cpp](./P2749.cpp) |
