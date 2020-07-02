@@ -2,7 +2,7 @@
 
 | 날짜           | 티어                                                                                    | 문제                                                               | 소스                          | 비고          |
 |---------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------|-------------|
-| 2020-04-07 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1340 연도 진행바](https://www.acmicpc.net/problem/1340) | [P1340.cpp](./P1340.cpp) | 
+| 2020-04-07 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1340 연도 진행바](https://www.acmicpc.net/problem/1340) | [P1340.cpp](./P1340.cpp) |
 | 2020-04-08 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [10166 관중석](https://www.acmicpc.net/problem/10166) | [P10166.cpp](./P10166.cpp) |
 | 2020-04-09 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [1935 후위 표기식2](https://www.acmicpc.net/problem/1935) | [P1935.cpp](./P1935.cpp) |
 | 2020-04-10 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [2422 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) | [P2422.cpp](./P2422.cpp) |
@@ -144,3 +144,4 @@
 | 2020-06-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [15810 풍선 공장](https://www.acmicpc.net/problem/15810) | [P15810.cpp](./P15810.cpp) | 6월 24일 문제 |
 | 2020-07-01 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740) | [P2740.cpp](./P2740.cpp) |
 | 2020-07-01 | <img src="https://static.solved.ac/tier_small/14.svg" height="14px"/> Gold II | [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749) | [P2749.cpp](./P2749.cpp) |
+| 2020-07-02 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [15549 if](https://www.acmicpc.net/problem/15549) | [P15549](./P15549) |
