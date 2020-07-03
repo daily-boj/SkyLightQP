@@ -145,3 +145,5 @@
 | 2020-07-01 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740) | [P2740.cpp](./P2740.cpp) |
 | 2020-07-01 | <img src="https://static.solved.ac/tier_small/14.svg" height="14px"/> Gold II | [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749) | [P2749.cpp](./P2749.cpp) |
 | 2020-07-02 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [15549 if](https://www.acmicpc.net/problem/15549) | [P15549](./P15549) |
+| 2020-07-03 | <img src="https://static.solved.ac/tier_small/2.svg" height="14px"/> Bronze IV | [17362 수학은 체육과목 입니다 2](https://www.acmicpc.net/problem/17362) | [P17362.py](./P17362.py) |
+| 2020-07-03 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [15550 if 2](https://www.acmicpc.net/problem/15550) | [P15550](./P15550) |
