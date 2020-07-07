@@ -151,3 +151,4 @@
 | 2020-07-05 | <img src="https://static.solved.ac/tier_small/13.svg" height="14px"/> Gold III | [2560 짚신벌레](https://www.acmicpc.net/problem/2560) | [P2560.cpp](./P2560.cpp) | 6월 30일 문제 |
 | 2020-07-05 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> Silver IV | [12919 A와 B 2](https://www.acmicpc.net/problem/12919) | [P12919.py](./P12919.py) | 7월 3일 문제 |
 | 2020-07-06 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [9047 6174](https://www.acmicpc.net/problem/9047) | [P9047.py](./P9047.py) |
+| 2020-07-07 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2033 반올림](https://www.acmicpc.net/problem/2033) | [P2033.py](./P2033.py) |
