@@ -64,7 +64,7 @@
 | 2020-05-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2869 교각 놓기](https://www.acmicpc.net/problem/2869) | [P2869.cpp](./P2869.cpp) | 틀렸습니다 |
 | 2020-05-02 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [17245 서버실](https://www.acmicpc.net/problem/2869) | [P17245.cpp](./P17245.cpp) |
 | 2020-05-02 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [16456 하와와 대학생쨩 하와이로 가는 거시와요~](https://www.acmicpc.net/problem/16456) | [P16456.cpp](./P16456.cpp) |
-| 2020-05-03 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2812 크게 만들기](https://www.acmicpc.net/problem/2812) | [P2812.cpp](./P2812.cpp) | 5월 2일 문제 |
+| 2020-05-03 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2812 크게 만들기](https://www.acmicpc.net/problem/2812) | [P2812.cpp](./P2812.cpp) | 복습 |
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [16433 주디와 당근농장](https://www.acmicpc.net/problem/16433) | [P16433.cpp](./P16433.cpp) |
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [1564 팩토리얼5](https://www.acmicpc.net/problem/1564) | [P1564.cpp](./P1564.cpp) |
 | 2020-05-04 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다](https://www.acmicpc.net/problem/6568) | [P6568.cpp](./P6568.cpp) |
@@ -75,8 +75,8 @@
 | 2020-05-07 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [P11441.cpp](./P11441.cpp) |
 | 2020-05-08 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [11723 집합](https://www.acmicpc.net/problem/11723) | [P11723.cpp](./P11723.cpp) |
 | 2020-05-09 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2622 삼각형만들기](https://www.acmicpc.net/problem/2622) | [P2622.cpp](./P2622.cpp) |
-| 2020-05-10 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11060 점프 점프](https://www.acmicpc.net/problem/11060) | [P11060.cpp](./P11060.cpp) | 5월 5일 문제 |
-| 2020-05-10 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13398 연속합 2](https://www.acmicpc.net/problem/13398) | [P13398.cpp](./P13398.cpp) | 5월 5일 문제 |
+| 2020-05-10 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [11060 점프 점프](https://www.acmicpc.net/problem/11060) | [P11060.cpp](./P11060.cpp) | 복습 |
+| 2020-05-10 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [13398 연속합 2](https://www.acmicpc.net/problem/13398) | [P13398.cpp](./P13398.cpp) | 복습 |
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [14405 피카츄](https://www.acmicpc.net/problem/14405) | [P14405.cpp](./P14405.cpp) |
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [P18870.cpp](./P18870.cpp) |
 | 2020-05-11 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9251 LCS](https://www.acmicpc.net/problem/9251) | [P9251.cpp](./P9251.cpp) |
@@ -88,7 +88,7 @@
 | 2020-05-14 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [18221 교수님 저는 취업할래요](https://www.acmicpc.net/problem/18221) | [P18221.cpp](./P18221.cpp) |
 | 2020-05-15 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [9996 한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | [P9996.cpp](./P9996.cpp) |
 | 2020-05-15 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [9663 N-Queen](https://www.acmicpc.net/problem/9663) | [P9663.cpp](./P9663.cpp) |
-| 2020-05-16 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2011 암호코드](https://www.acmicpc.net/problem/2011) | [P2011.cpp](./P2011.cpp) | 5월 15일 문제 |
+| 2020-05-16 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2011 암호코드](https://www.acmicpc.net/problem/2011) | [P2011.cpp](./P2011.cpp) | 복습 |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1834 나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834) | [P1834.cpp](./P1834.cpp) |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [2529 부등호](https://www.acmicpc.net/problem/2529) | [P2529.cpp](./P2529.cpp) |
 | 2020-05-18 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [1916 최소비용 구하기](https://www.acmicpc.net/problem/1916) | [P1916.cpp](./P1916.cpp) |
@@ -100,15 +100,15 @@
 | 2020-05-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> Bronze III | [14491 9진수](https://www.acmicpc.net/problem/14491) | [P14491.js](./P14491.js) |
 | 2020-05-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [4375 1](https://www.acmicpc.net/problem/4375) | [P4375.cpp](./P4375.cpp) |
 | 2020-05-22 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9658 돌 게임 4](https://www.acmicpc.net/problem/9658) | [P9658.cpp](./P9658.cpp) |
-| 2020-05-24 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2228 구간 나누기](https://www.acmicpc.net/problem/2228) | [P2228.cpp](./P2228.cpp) | 5월 20일 문제 |
+| 2020-05-24 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [2228 구간 나누기](https://www.acmicpc.net/problem/2228) | [P2228.cpp](./P2228.cpp) | 복습 |
 | 2020-05-25 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [17950 스노우볼](https://www.acmicpc.net/problem/17950) | [P17950.cpp](./P17950.cpp) |
 | 2020-05-25 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [17615 볼 모으기](https://www.acmicpc.net/problem/17615) | [P17615.cpp](./P17615.cpp) |
 | 2020-05-26 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [3181 줄임말 만들기](https://www.acmicpc.net/problem/3181) | [P3181.kt](./P3181.kt) |
 | 2020-05-27 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [16478 원의 분할](https://www.acmicpc.net/problem/16478) | [P16478.cpp](./P16478.cpp) |
 | 2020-05-28 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [16497 대출 요청](https://www.acmicpc.net/problem/16497) | [P16497.cpp](./P16497.cpp) | 틀렸습니다 |
 | 2020-05-29 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14929 귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) | [P14929.cpp](./P14929.cpp) |
-| 2020-05-30 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11508 2+1 세일](https://www.acmicpc.net/problem/11508) | [P11508.cpp](./P11508.cpp) | 5월 26일 문제 |
-| 2020-05-31 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9084 동전](https://www.acmicpc.net/problem/9084) | [P9084.cpp](./P9084.cpp) | 5월 26일 문제 |
+| 2020-05-30 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11508 2+1 세일](https://www.acmicpc.net/problem/11508) | [P11508.cpp](./P11508.cpp) | 복습 |
+| 2020-05-31 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [9084 동전](https://www.acmicpc.net/problem/9084) | [P9084.cpp](./P9084.cpp) | 복습 |
 | 2020-06-01 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [11719 그대로 출력하기 2](https://www.acmicpc.net/problem/11719) | [P11719.cpp](./P11719.cpp) |
 | 2020-06-01 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [11663 선분 위의 점](https://www.acmicpc.net/problem/11663) | [P11663.cpp](./P11663.cpp) |
 | 2020-06-01 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> Gold V | [11000 강의실 배정](https://www.acmicpc.net/problem/11000) | [P11000.cpp](./P11000.cpp) |
@@ -120,15 +120,15 @@
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/> Silver V | [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [P11650.cpp](./P11650.cpp) |
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [11403 경로 찾기](https://www.acmicpc.net/problem/11403) | [P11403.cpp](./P11403.cpp) |
 | 2020-06-05 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [1629 곱셈](https://www.acmicpc.net/problem/1629) | [P1629.cpp](./P12779.cpp) |
-| 2020-06-07 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [8911 거북이](https://www.acmicpc.net/problem/8911) | [P8911.cpp](./P8911.cpp) | 6월 4일 문제 |
-| 2020-06-07 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [15501 부당한 퍼즐](https://www.acmicpc.net/problem/15501) | [P15501.cpp](./P15501.cpp) | 6월 2일 문제 |
+| 2020-06-07 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [8911 거북이](https://www.acmicpc.net/problem/8911) | [P8911.cpp](./P8911.cpp) | 복습 |
+| 2020-06-07 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [15501 부당한 퍼즐](https://www.acmicpc.net/problem/15501) | [P15501.cpp](./P15501.cpp) | 복습 |
 | 2020-06-08 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [2028 자기복제수](https://www.acmicpc.net/problem/2028) | [P2028.cpp](./P2028.cpp) |
 | 2020-06-08 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> Silver III | [5397 키로거](https://www.acmicpc.net/problem/5397) | [P5397.cpp](./P5397.cpp) |
 | 2020-06-09 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2684 동전 게임](https://www.acmicpc.net/problem/2684) | [P2684.cpp](./P2684.cpp) |
 | 2020-06-10 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [14581 팬들에게 둘러싸인 홍준](https://www.acmicpc.net/problem/14581) | [P14581.py](./P14581.py) |
 | 2020-06-11 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [3062 수 뒤집기](https://www.acmicpc.net/problem/3062) | [P3062.py](./P3062.py) |
 | 2020-06-12 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [1236 성 지키기](https://www.acmicpc.net/problem/1236) | [P1236.cpp](./P1236.cpp) |
-| 2020-06-14 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [P1504.cpp](./P1504.cpp) | 6월 8일 문제 |
+| 2020-06-14 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [P1504.cpp](./P1504.cpp) | 복습 |
 | 2020-06-17 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [16205 변수명](https://www.acmicpc.net/problem/16205) | [P16205.py](./P16205.py) |
 | 2020-06-17 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2410 2의 멱수의 합](https://www.acmicpc.net/problem/2410) | [P2410.cpp](./P2410.cpp) |
 | 2020-06-18 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [5597 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [P5597.py](./P5597.py) |
@@ -141,15 +141,17 @@
 | 2020-06-24 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [9946 단어 퍼즐](https://www.acmicpc.net/problem/9946) | [P9946.py](./P9946.py) |
 | 2020-06-25 | <img src="https://static.solved.ac/tier_small/4.svg" height="14px"/> Bronze II | [2386 도비의 영어 공부](https://www.acmicpc.net/problem/2386) | [P2386.py](./P2386.py) |
 | 2020-06-26 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [15710 xor 게임](https://www.acmicpc.net/problem/15710) | [P15710.py](./P15710.py) |
-| 2020-06-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [15810 풍선 공장](https://www.acmicpc.net/problem/15810) | [P15810.cpp](./P15810.cpp) | 6월 24일 문제 |
+| 2020-06-27 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [15810 풍선 공장](https://www.acmicpc.net/problem/15810) | [P15810.cpp](./P15810.cpp) | 복습 |
 | 2020-07-01 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740) | [P2740.cpp](./P2740.cpp) |
 | 2020-07-01 | <img src="https://static.solved.ac/tier_small/14.svg" height="14px"/> Gold II | [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749) | [P2749.cpp](./P2749.cpp) |
 | 2020-07-02 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [15549 if](https://www.acmicpc.net/problem/15549) | [P15549](./P15549) |
 | 2020-07-03 | <img src="https://static.solved.ac/tier_small/2.svg" height="14px"/> Bronze IV | [17362 수학은 체육과목 입니다 2](https://www.acmicpc.net/problem/17362) | [P17362.py](./P17362.py) |
 | 2020-07-03 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> Gold IV | [15550 if 2](https://www.acmicpc.net/problem/15550) | [P15550](./P15550) |
-| 2020-07-04 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [3186 소변기](https://www.acmicpc.net/problem/3186) | [P3186.cpp](./P3186.cpp) | 6월 29일 문제 |
-| 2020-07-05 | <img src="https://static.solved.ac/tier_small/13.svg" height="14px"/> Gold III | [2560 짚신벌레](https://www.acmicpc.net/problem/2560) | [P2560.cpp](./P2560.cpp) | 6월 30일 문제 |
-| 2020-07-05 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> Silver IV | [12919 A와 B 2](https://www.acmicpc.net/problem/12919) | [P12919.py](./P12919.py) | 7월 3일 문제 |
+| 2020-07-04 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [3186 소변기](https://www.acmicpc.net/problem/3186) | [P3186.cpp](./P3186.cpp) | 복습 |
+| 2020-07-05 | <img src="https://static.solved.ac/tier_small/13.svg" height="14px"/> Gold III | [2560 짚신벌레](https://www.acmicpc.net/problem/2560) | [P2560.cpp](./P2560.cpp) | 복습 |
+| 2020-07-05 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> Silver IV | [12919 A와 B 2](https://www.acmicpc.net/problem/12919) | [P12919.py](./P12919.py) | 복습 |
 | 2020-07-06 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [9047 6174](https://www.acmicpc.net/problem/9047) | [P9047.py](./P9047.py) |
 | 2020-07-07 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2033 반올림](https://www.acmicpc.net/problem/2033) | [P2033.py](./P2033.py) |
 | 2020-07-08 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [12090 초성 변환](https://www.acmicpc.net/problem/12090) | [P12090.py](./P12090.py) |
+| 2020-07-11 | <img src="https://static.solved.ac/tier_small/14.svg" height="14px"/> Gold II | [1111 IQ Test](https://www.acmicpc.net/problem/1111) | [P1111.cpp](./P1111.cpp) | 복습 |
+| 2020-07-11 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2502 떡 먹는 호랑이](https://www.acmicpc.net/problem/12090) | [P2502.cpp](./P2502.cpp) | 복습 |
