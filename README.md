@@ -156,3 +156,4 @@
 | 2020-07-11 | <img src="https://static.solved.ac/tier_small/14.svg" height="14px"/> Gold II | [1111 IQ Test](https://www.acmicpc.net/problem/1111) | [P1111.cpp](./P1111.cpp) | 복습 |
 | 2020-07-11 | <img src="https://static.solved.ac/tier_small/10.svg" height="14px"/> Silver I | [2502 떡 먹는 호랑이](https://www.acmicpc.net/problem/12090) | [P2502.cpp](./P2502.cpp) | 복습 |
 | 2020-07-15 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> Bronze I | [2929 머신 코드](https://www.acmicpc.net/problem/2929) | [P2929.py](./P2929.py) |
+| 2020-08-06 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/> Silver II | [13915 현수의 열기구 교실](https://www.acmicpc.net/problem/13915) | [P13915.cpp](./P13915.cpp) |
