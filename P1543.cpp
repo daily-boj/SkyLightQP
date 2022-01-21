@@ -1,9 +1,3 @@
-/*
- * Baekjoon - 문서 검색
- * https://www.acmicpc.net/problem/1543
- * 2022년 01월 21일
- */
-
 #include <iostream>
 #include <string>
 

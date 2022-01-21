@@ -1,9 +1,3 @@
-/*
- * Baekjoon - 드높은 남산 위에 우뚝 선
- * https://www.acmicpc.net/problem/21965
- * 2022년 01월 21일
- */
-
 #include <iostream>
 #include <algorithm>
 
