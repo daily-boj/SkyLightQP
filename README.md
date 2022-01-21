@@ -6,7 +6,7 @@
 | ---------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
 | 2022-01-21 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> | [1543 문서 검색](https://www.acmicpc.net/problem/1543)                             | [P1543.cpp](./P1543.cpp)   |
 | 2022-01-21 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> | [21965 드높은 남산 위에 우뚝 선](https://www.acmicpc.net/problem/21965)            | [P21965.cpp](./P21965.cpp) |
-| 2022-01-21 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [16673 고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673)     | [P16673.py](./P10833.py)   |
+| 2022-01-21 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [16673 고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673)     | [P16673.py](./P16673.py)   |
 | 2022-01-20 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [10833 사과](https://www.acmicpc.net/problem/10833)                                | [P10833.cpp](./P10833.cpp) |
 | 2022-01-19 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> | [16495 열 순서](https://www.acmicpc.net/problem/16495)                             | [P16495.py](./P16495.py)   |
 | 2022-01-19 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [22938 백발백준하는 명사수](https://www.acmicpc.net/problem/22938)                 | [P22938.py](./P22938.py)   |
