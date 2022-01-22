@@ -4,6 +4,9 @@
 
 | 날짜       | 티어                                                                 | 문제                                                                               | 소스                       |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
+| 2022-01-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> | [14247 나무 자르기](https://www.acmicpc.net/problem/14247)                         | [P14247.cpp](./P14247.cpp) |
+| 2022-01-22 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> | [17269 이름궁합 테스트](https://www.acmicpc.net/problem/17269)                     | [P17269.cpp](./P17269.cpp) |
+| 2022-01-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [10419 지각](https://www.acmicpc.net/problem/10419)                                | [P10419.cpp](./P10419.cpp) |
 | 2022-01-21 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/> | [1543 문서 검색](https://www.acmicpc.net/problem/1543)                             | [P1543.cpp](./P1543.cpp)   |
 | 2022-01-21 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> | [21965 드높은 남산 위에 우뚝 선](https://www.acmicpc.net/problem/21965)            | [P21965.cpp](./P21965.cpp) |
 | 2022-01-21 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [16673 고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673)     | [P16673.py](./P16673.py)   |
