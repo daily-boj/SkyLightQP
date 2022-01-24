@@ -4,6 +4,7 @@
 
 | 날짜       | 티어                                                                 | 문제                                                                               | 소스                       |
 | ---------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
+| 2022-01-23 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [2783 삼각 김밥](https://www.acmicpc.net/problem/2783)                             | [P2783.cpp](./P2783.cpp)   |
 | 2022-01-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/> | [14247 나무 자르기](https://www.acmicpc.net/problem/14247)                         | [P14247.cpp](./P14247.cpp) |
 | 2022-01-22 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/> | [17269 이름궁합 테스트](https://www.acmicpc.net/problem/17269)                     | [P17269.cpp](./P17269.cpp) |
 | 2022-01-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/> | [10419 지각](https://www.acmicpc.net/problem/10419)                                | [P10419.cpp](./P10419.cpp) |
