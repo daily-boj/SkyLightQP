@@ -4,6 +4,11 @@
 
 | 날짜       | 티어                                                                  | 문제                                                                               | 소스                       |
 | ---------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
+| 2022-01-26 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2702 초6 수학](https://www.acmicpc.net/problem/2702)                              | [P2702.py](./P2702.py)     |
+| 2022-01-26 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [16504 종이접기](https://www.acmicpc.net/problem/16504)                            | [P16504.cpp](./P16504.cpp) |
+| 2022-01-25 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/>  | [14402 야근](https://www.acmicpc.net/problem/14402)                                | [P14402.cpp](./P14402.cpp) |
+| 2022-01-25 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [20205 교수님 그림이 깨지는데요?](https://www.acmicpc.net/problem/20205)           | [P20205.cpp](./P20205.cpp) |
+| 2022-01-25 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [6322 직각 삼각형의 두 변](https://www.acmicpc.net/problem/6322)                   | [P6322.cpp](./P6322.cpp)   |
 | 2022-01-24 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> | [14284 간선 이어가기 2](https://www.acmicpc.net/problem/14284)                     | [P14284.cpp](./P14284.cpp) |
 | 2022-01-24 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2783 중복된 숫자](https://www.acmicpc.net/problem/15719)                          | [P15719.cpp](./P15719.cpp) |
 | 2022-01-24 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [11134 쿠키애호가](https://www.acmicpc.net/problem/11134)                          | [P11134.py](./P11134.py)   |
