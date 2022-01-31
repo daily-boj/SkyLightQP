@@ -2,30 +2,37 @@
 
 ## 2022
 
-| 날짜       | 티어                                                                  | 문제                                                                               | 소스                       |
-| ---------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
-| 2022-01-26 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2702 초6 수학](https://www.acmicpc.net/problem/2702)                              | [P2702.py](./P2702.py)     |
+|    날짜    |                                 티어                                  | 문제                                                                               |            소스            |
+| :--------: | :-------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :------------------------: |
+| 2022-01-30 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [6996 애너그램](https://www.acmicpc.net/problem/6996)                              |   [P6996.py](./P6996.py)   |
+| 2022-01-30 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [3058 짝수를 찾아라](https://www.acmicpc.net/problem/3058)                         |  [P3058.cpp](./P3058.cpp)  |
+| 2022-01-29 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [15995 잉여역수 구하기](https://www.acmicpc.net/problem/15995)                     |  [P15995.py](./P15995.py)  |
+| 2022-01-28 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/>  | [23322 초콜릿 뺏어 먹기](https://www.acmicpc.net/problem/23322)                    | [P23322.cpp](./P23322.cpp) |
+| 2022-01-28 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [14914 사과와 바나나 나눠주기](https://www.acmicpc.net/problem/14914)              | [P14914.cpp](./P14914.cpp) |
+| 2022-01-28 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [2863 이게 분수?](https://www.acmicpc.net/problem/2863)                            |  [P2863.cpp](./P2863.cpp)  |
+| 2022-01-27 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [10409 서버](https://www.acmicpc.net/problem/10409)                                | [P10409.cpp](./P10409.cpp) |
+| 2022-01-26 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2702 초6 수학](https://www.acmicpc.net/problem/2702)                              |   [P2702.py](./P2702.py)   |
 | 2022-01-26 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [16504 종이접기](https://www.acmicpc.net/problem/16504)                            | [P16504.cpp](./P16504.cpp) |
 | 2022-01-25 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/>  | [14402 야근](https://www.acmicpc.net/problem/14402)                                | [P14402.cpp](./P14402.cpp) |
 | 2022-01-25 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [20205 교수님 그림이 깨지는데요?](https://www.acmicpc.net/problem/20205)           | [P20205.cpp](./P20205.cpp) |
-| 2022-01-25 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [6322 직각 삼각형의 두 변](https://www.acmicpc.net/problem/6322)                   | [P6322.cpp](./P6322.cpp)   |
+| 2022-01-25 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [6322 직각 삼각형의 두 변](https://www.acmicpc.net/problem/6322)                   |  [P6322.cpp](./P6322.cpp)  |
 | 2022-01-24 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> | [14284 간선 이어가기 2](https://www.acmicpc.net/problem/14284)                     | [P14284.cpp](./P14284.cpp) |
 | 2022-01-24 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2783 중복된 숫자](https://www.acmicpc.net/problem/15719)                          | [P15719.cpp](./P15719.cpp) |
-| 2022-01-24 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [11134 쿠키애호가](https://www.acmicpc.net/problem/11134)                          | [P11134.py](./P11134.py)   |
-| 2022-01-23 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [2783 삼각 김밥](https://www.acmicpc.net/problem/2783)                             | [P2783.cpp](./P2783.cpp)   |
+| 2022-01-24 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [11134 쿠키애호가](https://www.acmicpc.net/problem/11134)                          |  [P11134.py](./P11134.py)  |
+| 2022-01-23 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [2783 삼각 김밥](https://www.acmicpc.net/problem/2783)                             |  [P2783.cpp](./P2783.cpp)  |
 | 2022-01-22 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/>  | [14247 나무 자르기](https://www.acmicpc.net/problem/14247)                         | [P14247.cpp](./P14247.cpp) |
 | 2022-01-22 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [17269 이름궁합 테스트](https://www.acmicpc.net/problem/17269)                     | [P17269.cpp](./P17269.cpp) |
 | 2022-01-22 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [10419 지각](https://www.acmicpc.net/problem/10419)                                | [P10419.cpp](./P10419.cpp) |
-| 2022-01-21 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/>  | [1543 문서 검색](https://www.acmicpc.net/problem/1543)                             | [P1543.cpp](./P1543.cpp)   |
+| 2022-01-21 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/>  | [1543 문서 검색](https://www.acmicpc.net/problem/1543)                             |  [P1543.cpp](./P1543.cpp)  |
 | 2022-01-21 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [21965 드높은 남산 위에 우뚝 선](https://www.acmicpc.net/problem/21965)            | [P21965.cpp](./P21965.cpp) |
-| 2022-01-21 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [16673 고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673)     | [P16673.py](./P16673.py)   |
+| 2022-01-21 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [16673 고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673)     |  [P16673.py](./P16673.py)  |
 | 2022-01-20 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [10833 사과](https://www.acmicpc.net/problem/10833)                                | [P10833.cpp](./P10833.cpp) |
-| 2022-01-19 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [16495 열 순서](https://www.acmicpc.net/problem/16495)                             | [P16495.py](./P16495.py)   |
-| 2022-01-19 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [22938 백발백준하는 명사수](https://www.acmicpc.net/problem/22938)                 | [P22938.py](./P22938.py)   |
-| 2022-01-18 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2851 슈퍼 마리오](https://www.acmicpc.net/problem/2851)                           | [P2851.cpp](./P2851.cpp)   |
+| 2022-01-19 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [16495 열 순서](https://www.acmicpc.net/problem/16495)                             |  [P16495.py](./P16495.py)  |
+| 2022-01-19 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [22938 백발백준하는 명사수](https://www.acmicpc.net/problem/22938)                 |  [P22938.py](./P22938.py)  |
+| 2022-01-18 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2851 슈퍼 마리오](https://www.acmicpc.net/problem/2851)                           |  [P2851.cpp](./P2851.cpp)  |
 | 2022-01-18 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [14568 2017 연세대학교 프로그래밍 경시대회](https://www.acmicpc.net/problem/14568) | [P14568.cpp](./P14568.cpp) |
-| 2022-01-17 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [11008 복붙의 달인](https://www.acmicpc.net/problem/11008)                         | [P11008.py](./P11008.py)   |
-| 2022-01-17 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [4619 루트](https://www.acmicpc.net/problem/4619)                                  | [P4619.cpp](./P4619.cpp)   |
+| 2022-01-17 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [11008 복붙의 달인](https://www.acmicpc.net/problem/11008)                         |  [P11008.py](./P11008.py)  |
+| 2022-01-17 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [4619 루트](https://www.acmicpc.net/problem/4619)                                  |  [P4619.cpp](./P4619.cpp)  |
 
 ## 2020
 
