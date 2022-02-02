@@ -4,6 +4,13 @@
 
 |    날짜    |                                 티어                                  | 문제                                                                               |            소스            |
 | :--------: | :-------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :------------------------: |
+| 2022-02-02 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/>  | [21735 눈덩이 굴리기](https://www.acmicpc.net/problem/21735)                       | [P21735.cpp](./P21735.cpp) |
+| 2022-02-02 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2669 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)  |  [P2669.cpp](./P2669.cpp)  |
+| 2022-02-02 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [20540 연길이의 이상형](https://www.acmicpc.net/problem/20540)                     |  [P20540.py](./P20540.py)  |
+| 2022-02-01 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [4388 받아올림](https://www.acmicpc.net/problem/4388)                              |   [P4388.py](./P4388.py)   |
+| 2022-01-31 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [5533 유니크](https://www.acmicpc.net/problem/5533)                                |  [P5533.cpp](./P5533.cpp)  |
+| 2022-01-31 | <img src="https://static.solved.ac/tier_small/9.svg" height="14px"/>  | [14613 너의 티어는?](https://www.acmicpc.net/problem/14613)                        | [P14613.cpp](./P14613.cpp) |
+| 2022-01-31 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [9517 아이 러브 크로아티아](https://www.acmicpc.net/problem/9517)                  |  [P9517.cpp](./P9517.cpp)  |
 | 2022-01-30 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [6996 애너그램](https://www.acmicpc.net/problem/6996)                              |   [P6996.py](./P6996.py)   |
 | 2022-01-30 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [3058 짝수를 찾아라](https://www.acmicpc.net/problem/3058)                         |  [P3058.cpp](./P3058.cpp)  |
 | 2022-01-29 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [15995 잉여역수 구하기](https://www.acmicpc.net/problem/15995)                     |  [P15995.py](./P15995.py)  |
