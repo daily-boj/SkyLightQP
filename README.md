@@ -4,6 +4,9 @@
 
 |    날짜    |                                 티어                                  | 문제                                                                               |            소스            |
 | :--------: | :-------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :------------------------: |
+| 2022-02-03 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/>  | [1816 암호 키](https://www.acmicpc.net/problem/1816)                               |  [P1816.cpp](./P1816.cpp)  |
+| 2022-02-03 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [9046 복호화](https://www.acmicpc.net/problem/9046)                                |   [P9046.py](./P9046.py)   |
+| 2022-02-03 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [1837 암호제작](https://www.acmicpc.net/problem/1837)                              |   [P1837.py](./P1837.py)   |
 | 2022-02-02 | <img src="https://static.solved.ac/tier_small/8.svg" height="14px"/>  | [21735 눈덩이 굴리기](https://www.acmicpc.net/problem/21735)                       | [P21735.cpp](./P21735.cpp) |
 | 2022-02-02 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [2669 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)  |  [P2669.cpp](./P2669.cpp)  |
 | 2022-02-02 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [20540 연길이의 이상형](https://www.acmicpc.net/problem/20540)                     |  [P20540.py](./P20540.py)  |
