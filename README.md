@@ -4,6 +4,8 @@
 
 |    날짜    |                                 티어                                  | 문제                                                                               |            소스            |
 | :--------: | :-------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :------------------------: |
+| 2022-02-04 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> | [13325 이진 트리](https://www.acmicpc.net/problem/13325)                           | [P13325.cpp](./P13325.cpp) |
+| 2022-02-04 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/>  | [2089 -2진수](https://www.acmicpc.net/problem/2089)                                |  [P2089.cpp](./P2089.cpp)  |
 | 2022-02-03 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/>  | [1816 암호 키](https://www.acmicpc.net/problem/1816)                               |  [P1816.cpp](./P1816.cpp)  |
 | 2022-02-03 | <img src="https://static.solved.ac/tier_small/5.svg" height="14px"/>  | [9046 복호화](https://www.acmicpc.net/problem/9046)                                |   [P9046.py](./P9046.py)   |
 | 2022-02-03 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [1837 암호제작](https://www.acmicpc.net/problem/1837)                              |   [P1837.py](./P1837.py)   |
