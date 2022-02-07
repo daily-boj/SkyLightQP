@@ -4,6 +4,9 @@
 
 |    날짜    |                                 티어                                  | 문제                                                                               |            소스            |
 | :--------: | :-------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :------------------------: |
+| 2022-02-07 | <img src="https://static.solved.ac/tier_small/11.svg" height="14px"/> | [14699 관악산 등산](https://www.acmicpc.net/problem/14699)                         | [P14699.cpp](./P14699.cpp) |
+| 2022-02-06 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [14614 Calculate!](https://www.acmicpc.net/problem/14614)                          | [P14614.cpp](./P14614.cpp) |
+| 2022-02-05 | <img src="https://static.solved.ac/tier_small/3.svg" height="14px"/>  | [23348 스트릿 코딩 파이터](https://www.acmicpc.net/problem/23348)                  | [P23348.cpp](./P23348.cpp) |
 | 2022-02-04 | <img src="https://static.solved.ac/tier_small/12.svg" height="14px"/> | [13325 이진 트리](https://www.acmicpc.net/problem/13325)                           | [P13325.cpp](./P13325.cpp) |
 | 2022-02-04 | <img src="https://static.solved.ac/tier_small/7.svg" height="14px"/>  | [2089 -2진수](https://www.acmicpc.net/problem/2089)                                |  [P2089.cpp](./P2089.cpp)  |
 | 2022-02-03 | <img src="https://static.solved.ac/tier_small/6.svg" height="14px"/>  | [1816 암호 키](https://www.acmicpc.net/problem/1816)                               |  [P1816.cpp](./P1816.cpp)  |
